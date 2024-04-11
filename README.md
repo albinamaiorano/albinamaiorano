@@ -1,4 +1,4 @@
-# albinamaiorano-
+# albinamaiorano
 # Welcome to My GitHub Profile!
 
 Hello! I'm Albina, a student currently enrolled in the **GoGrammar Skills Bootcamp in Software Engineering (Fundamentals)**. Here's a bit about me:
