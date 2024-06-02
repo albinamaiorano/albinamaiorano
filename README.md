@@ -1,31 +1,24 @@
-# albinamaiorano
-# Welcome to My GitHub Profile!
-
-Hello! I'm Albina, a student currently enrolled in the **GoGrammar Skills Bootcamp in Software Engineering (Fundamentals)**. Here's a bit about me:
+# Hi, I'm Albina Maiorano 👋
 
 ## About Me
+I am an aspiring Junior Software Engineer with a passion for coding and problem-solving. I recently completed a comprehensive Software Engineering Bootcamp at HyperionDev, where I gained hands-on experience in Python, SQL, OOP, and web development.
 
-I'm passionate about coding and eager to learn new things. Currently, I'm focusing on mastering Python and exploring its various applications in software development and beyond as part of my bootcamp curriculum.
+## Skills
+- **Programming Languages**: Python, SQL
+- **Development**: Object-Oriented Programming, Systems Analysis and Design
+- **Web Development**: HTML, CSS, Django
+- **Tools**: Git, SQLite
 
-## Skills in Progress
+## Featured Projects
+### [To-Do List Application](https://github.com/albinamaiorano/to-do-list-application)
+A Python-based application for managing tasks efficiently.
 
-- Programming Languages:
-  - Python
+### [Task Manager Application](https://github.com/albinamaiorano/task-manager-application)
+An application built with Python and SQL to organize and track daily activities.
 
-## Learning Resources
+### [Sticky Notes Application (Django)](https://github.com/albinamaiorano/sticky-notes-application)
+A web application for managing notes, built using the Django framework.
 
-I'm actively learning Python through online tutorials, books, and coding exercises. Some of the resources I'm using include:
-
-- [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Python.org Documentation](https://docs.python.org/3/)
-
-## Get in Touch
-
-I'm always interested in connecting with fellow Python enthusiasts! Feel free to reach out to me via [email](mailto:albamaiorano@gmail.com) or connect with me on [LinkedIn](http://linkedin.com/in/albina-maiorano-868215153).
-
-[![Profile Picture](https://avatars.githubusercontent.com/u/163044851?v=4)
-## Explore More
-
-If you'd like to see more of my projects and contributions, feel free to check out my [GitHub profile](https://github.com/albinamaiorano).
-
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/albina-maiorano/)
+- [Email](mailto:albamaiorano@gmail.com)
